@@ -1,0 +1,6 @@
+invoice_id,item,quantity,price,total,expected_total,is_correct
+1001,Laptop,2,1200,2400,2400,True
+1001,Mouse,3,25,80,75,False
+1002,Monitor,1,300,300,300,True
+1003,Keyboard,2,50,120,100,False
+1003,Desk,1,200,200,200,True
