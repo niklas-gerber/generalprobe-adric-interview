@@ -1,1 +1,6 @@
-
+invoice_id,item,quantity,price,total
+1001,Laptop,2,1200,2400
+1001,Mouse,3,25,80
+1002,Monitor,1,300,300
+1003,Keyboard,2,50,120
+1003,Desk,1,200,200
